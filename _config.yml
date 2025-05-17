@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shilei Luo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shilei Luo"
 description              : &description "personal description"

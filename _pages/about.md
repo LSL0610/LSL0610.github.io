@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi! This is Shilei Luo."
 author_profile: true
 redirect_from: 
   - /about/
