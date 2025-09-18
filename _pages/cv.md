@@ -53,7 +53,7 @@ permalink: /cv/
   <ul>
     <li>
       <strong>The Power of Pay: The Amplified Long-Term Effects of Wage Changes in the Gig Economy</strong><br>
-      <em>with Xinyu Cao and Dennis J. Zhang, Working paper</em>
+      <em>with Xinyu Cao and Dennis J. Zhang, Risky Revision at Journal of Marketing Research</em>
     </li>
     <li>
       <strong>How Content Nudges Influence Late-Night Usage on Short Video Platform</strong><br>
