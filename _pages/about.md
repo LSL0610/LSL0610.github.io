@@ -17,7 +17,7 @@ Education
 Research
 ======
 + **Working Papers**
-  1. Xinyu Cao, Shilei Luo and Dennis J. Zhang. "[The Power of Pay: The Amplified Long-Term Effects of Wage Changes in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5187750)." 
+  1. Xinyu Cao, Shilei Luo and Dennis J. Zhang, Risky Revision at Journal of Marketing Research. "[The Power of Pay: The Amplified Long-Term Effects of Wage Changes in the Gig Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5187750)." 
 
 + **Work in Progress**
   1. Shilei Luo, Song Yao, and Dennis J. Zhang. "How Content Nudges Influence Late-Night Usage on Short Video Platform"
